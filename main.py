@@ -5,6 +5,7 @@ import datetime
 # List of backend URLs to ping
 URLS = [
                 # Replace with actual project 1
+  "https://rewear-r2vt.onrender.com"
     "https://vendorverse-uzqz.onrender.com",    # Replace with actual project 2
     "https://servicehub-backend-nndu.onrender.com"  # Replace with actual project 3
     
